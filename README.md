@@ -1,7 +1,10 @@
 # Automated Curtain Opener  
 This project was done for UCR's EE128: Sensing and Actuation for Embedded Systems. 
 ## Background  
-insert here
+This mini-project was completed in one week.
+The purpose was to simulate smart home technology use cases for embedded systems.
+The sensing and actuation logic is carried out on the FDRM-64F deveoplment board.  
+
 ## Parts  
 - K64F Board  
 - Stepper Motor
@@ -11,10 +14,10 @@ insert here
 - Passive Buzzer  
 - Generic LED  
 - 9V Battery
-- Wires
+- Wires (Dupont male/male and male/female)
 ## Wiring  
 
-Motor Driver general wiring Schematic  
+Motor driver general wiring schematic.  
 <img width="405" alt="motor_driver_wiring" src="https://github.com/lpurgitoryl/FRDM-K64F-CurtainOpener/assets/23303005/0282d3e1-ee6f-4dbc-962e-5208b17cf6db">
 
 In the final version, the following pins are used.
@@ -32,5 +35,6 @@ The passive buzzer is connected to PORT C pin 10.
 
 ## Other Links and Information
 [FRDM-64F](https://www.nxp.com/design/development-boards/freedom-development-boards/mcu-boards/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F)  
-[Pulley system inspiration](https://youtu.be/JtYdPwO65WI?t=792)
+[Pulley system inspiration](https://youtu.be/JtYdPwO65WI?t=792)  
+[Project Report](https://docs.google.com/document/d/1dzci8ntVVdhlUHROj9Acoytm7zOB9gnHJzhSDY8bff8/edit?usp=sharing)
 
