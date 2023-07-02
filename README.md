@@ -16,7 +16,7 @@ The sensing and actuation logic is carried out on the FDRM-64F deveoplment board
 - 9V Battery
 - Wires (Dupont male/male and male/female)
 - Some string, fishing line, or wire (for pulley system)
-- Foam Core Board and Hot Glue. (This is optional, but I cut and hotglued the foam core to create a seperation between the two diffent pulley strings and a housing)
+- Foam Core Board and Hot Glue. (This is optional, but I cut and hotglued the foam core to create a seperation between the two different pulley strings and a housing)
 ## Wiring  
 
 Motor driver general wiring schematic.  
