@@ -15,6 +15,7 @@ The sensing and actuation logic is carried out on the FDRM-64F deveoplment board
 - Generic LED  
 - 9V Battery
 - Wires (Dupont male/male and male/female)
+- Some string, fishing line, or wire (for pulley system)
 ## Wiring  
 
 Motor driver general wiring schematic.  
